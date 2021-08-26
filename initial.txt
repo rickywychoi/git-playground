@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // TODO: DELETE BELOW LINE!!!
 oops i made a mistake
 
 another work...
+=======
+>>>>>>> parent of b39bd2d (Mistake)
